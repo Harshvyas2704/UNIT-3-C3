@@ -1,0 +1,27 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+#user-detail{
+    width: 30vw;
+    margin: auto;
+    display: flex;
+}
+
+input {
+    text-align: center;
+    padding: 5px;
+    margin-left: 1%;
+}
+
+#movie{
+    width: 20vw;
+    /* border: 1px red solid; */
+    margin: auto;
+    margin-top: 40px;
+
+}
+#movie p{
+    text-align: center;
+}
